@@ -134,8 +134,8 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ## 👨‍💻 Author
 
-Made with ❤️ by **Your Name**  
-GitHub: [@your-username](https://github.com/your-username)
+Made with ❤️ by **Ashwin Rao**  
+GitHub: [@Ashwin-arch](https://github.com/Ashwin-arch)
 
 ---
 
